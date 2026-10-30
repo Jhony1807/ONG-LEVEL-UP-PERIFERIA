@@ -54,7 +54,7 @@ Tamanho Mínimo do Nome: Exige que o nome possua pelo menos 3 caracteres.
 
 Validação Nativa de E-mail: Utiliza a verificação integrada do HTML5 (campoEmail.checkValidity()) combinada ao script para garantir formatos válidos (ex: nome@email.com).
 
-Seleção de Jogo: Assegura que o usuário selecionou uma opção válida no elemento <select>.
+Seleção de Jogo: Assegura que o usuário selecionou uma opção válida no elemento <"select">.
 
 Tamanho da Mensagem: Exige que o campo de texto da mensagem contenha no mínimo 10 caracteres.
 
