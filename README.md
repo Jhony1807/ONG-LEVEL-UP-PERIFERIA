@@ -63,7 +63,7 @@ Feedback Dinâmico: Caso encontre erros, exibe mensagens explicativas com classe
 2. Painel Dinâmico de Informações Institucionais (script.js)
 Atua na página "Sobre" (sobre.html), permitindo alternar a visibilidade de conteúdos adicionais sob demanda.
 
-Alternância de Estados (Toggle): Verifica através de uma estrutura condicional (if / else) se o painel extra está oculto (display: "none") ou visível (display: "block")[cite: 9].
+Alternância de Estados (Toggle): Verifica através de uma estrutura condicional (if / else) se o painel extra está oculto (display: "none") ou visível (display: "block").
 
 Modificação de Texto e Acessibilidade:
 
@@ -76,7 +76,6 @@ Clone este repositório para a sua máquina:
 
 Bash
 git clone https://github.com/Jhony1807/ONG-LEVEL-UP-PERIFERIA.git
-(Substitua SEU-USUARIO/NOME-DO-REPOSITORIO pelo link real do seu repositório no GitHub).
 
 Abra a pasta do projeto no seu editor de código preferido (como o VS Code).
 
